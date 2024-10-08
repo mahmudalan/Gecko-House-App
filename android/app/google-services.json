@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "60213713343",
+    "firebase_url": "https://gecko-house-project-default-rtdb.firebaseio.com",
+    "project_id": "gecko-house-project",
+    "storage_bucket": "gecko-house-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60213713343:android:86067914bd7344d948690a",
+        "android_client_info": {
+          "package_name": "com.example.geckohouse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf15iGKfivMuwLb8RzJSaxTFEoZokibfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
